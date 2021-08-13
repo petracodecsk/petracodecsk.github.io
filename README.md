@@ -1,0 +1,2 @@
+# techlanka
+static web site
